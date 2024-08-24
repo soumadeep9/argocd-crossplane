@@ -1,7 +1,4 @@
-# OSS-japan
-This is the repo for OSS Japan Demo
-
-# This is the demo to show GitOps in action using ArgoCD on Civo Kubernetes and also cluster creations using ArgoCD and crossplane Combination. 
+# This is the demo to show GitOps in action using ArgoCD on AKS and also cluster creations using ArgoCD and crossplane Combination. 
 
 In order to learn more about ArgoCD quickly wach my CNCFMinutes video [here](https://youtu.be/2B3qcyCcBXs).
 
